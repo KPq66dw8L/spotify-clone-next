@@ -1,0 +1,20 @@
+Next built in router in pages folder.
+
+_rfce -> create component structure and export based on file name.
+
+Emmet + 
+"emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+}
+in settings.json to get the auto-completion.
+
+to import <Sidebar />, cursor at the end of the word and then ctrl+space.
+
+heroicons -> svg smooth icons from the dev of tailwind.
+
+React native flex is column.
+
+About spotify's api, the access token expires about every hour, one have to use a refresh token
+to renew the access one.
+
+https://youtu.be/3xrko3GpYoU?t=2632
