@@ -1,5 +1,7 @@
 Next built in router in pages folder.
 
+npm run dev
+
 _rfce -> create component structure and export based on file name.
 
 Emmet + 
@@ -14,7 +16,10 @@ heroicons -> svg smooth icons from the dev of tailwind.
 
 React native flex is column.
 
-About spotify's api, the access token expires about every hour, one have to use a refresh token
+About spotify's api: the access token expires about every hour, one have to use a refresh token
 to renew the access one.
+https://next-auth.js.org/tutorials/refresh-token-rotation
 
-https://youtu.be/3xrko3GpYoU?t=2632
+https://youtu.be/3xrko3GpYoU?t=5650
+
+lib folder is where u store help
