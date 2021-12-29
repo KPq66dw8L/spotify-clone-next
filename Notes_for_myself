@@ -20,7 +20,7 @@ About spotify's api: the access token expires about every hour, one have to use 
 to renew the access one.
 https://next-auth.js.org/tutorials/refresh-token-rotation
 
-https://youtu.be/3xrko3GpYoU?t=5650
+https://youtu.be/3xrko3GpYoU?t=7205
 
 lib folder is where u store help
 
