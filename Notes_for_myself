@@ -2,11 +2,11 @@ Next built in router in pages folder.
 
 npm run dev
 
-_rfce -> create component structure and export based on file name.
+\_rfce -> create component structure and export based on file name.
 
-Emmet + 
+Emmet +
 "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
+"javascript": "javascriptreact"
 }
 in settings.json to get the auto-completion.
 
@@ -23,3 +23,7 @@ https://next-auth.js.org/tutorials/refresh-token-rotation
 https://youtu.be/3xrko3GpYoU?t=5650
 
 lib folder is where u store help
+
+SessionProvider to manage the session globally, with useSession hook
+
+NextJS middleware to redirect to the login page in case user isnt logged in

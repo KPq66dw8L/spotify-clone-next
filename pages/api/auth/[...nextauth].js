@@ -41,7 +41,7 @@ export default NextAuth({
     signIn: '/login' //=> if you want to redirect to a custom sign in page
   },
   callbacks: { 
-    async jwt({ token, account, user }) { //=> if you want to do something with the token
+    async jwt({ token, account, user }) { //=> return cookie
       // Store the token in your database
       // initialise the user's Spotify account / first time login
       if (account && user){ //=> if account is not null, it means the user is logged in
